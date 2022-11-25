@@ -86,26 +86,31 @@
 
 <details><summary>Аналитик</summary>
   направления: системный аналитик, бизнес аналитик, 1С
+  
   описание:
 </details>
 
 <details><summary>Аналитик-разработчик</summary>
   направления: 1С, SAP Business Intelligence
+  
   описание:
 </details>
 
 <details><summary>Разработчик</summary>
   направления: Java Script, Web
+  
   описание:
 </details>
 
 <details><summary>Data engineer</summary>
   направления: ESB Express
+  
   описание:
 </details>
 
 <details><summary>Тех. поддержка</summary>
   направление: Support
+  
   описание:
 </details>
 
