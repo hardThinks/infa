@@ -122,10 +122,6 @@
 
 
 <details><summary>Аналитик-программист</summary>
-  
-</details>
-
-<details><summary>Аналитик: системный аналитик</summary>
 
 1. Вопрос:
  
@@ -163,9 +159,6 @@
 
 
 <details><summary>Разработчик</summary>
-</details>
-
-<details><summary>Аналитик: системный аналитик</summary>
 
 1. Вопрос:
  
@@ -203,9 +196,6 @@
 
 
 <details><summary>Data ingeneer</summary>
-</details>
-
-<details><summary>Аналитик: системный аналитик</summary>
 
 1. Вопрос:
  
@@ -243,8 +233,6 @@
 
 
 <details><summary>Техподдержка</summary>
-
-<details><summary>Аналитик: системный аналитик</summary>
 
 1. Вопрос:
  
