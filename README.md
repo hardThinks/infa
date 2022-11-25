@@ -122,6 +122,8 @@
 
 
 <details><summary>Аналитик-программист</summary>
+  
+</details>
 
 <details><summary>Аналитик: системный аналитик</summary>
 
@@ -161,6 +163,7 @@
 
 
 <details><summary>Разработчик</summary>
+</details>
 
 <details><summary>Аналитик: системный аналитик</summary>
 
@@ -200,6 +203,7 @@
 
 
 <details><summary>Data ingeneer</summary>
+</details>
 
 <details><summary>Аналитик: системный аналитик</summary>
 
